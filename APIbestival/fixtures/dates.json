@@ -1,0 +1,44 @@
+[
+  {
+    "model": "APIbestival.Date",
+    "fields": {
+      "month": "April",
+      "year": 2017
+    }
+  },
+  {
+    "model": "APIbestival.Date",
+    "fields": {
+      "month": "May",
+      "year": 2017
+    }
+  },
+  {
+    "model": "APIbestival.Date",
+    "fields": {
+      "month": "June",
+      "year": 2017
+    }
+  },
+  {
+    "model": "APIbestival.Date",
+    "fields": {
+      "month": "July",
+      "year": 2017
+    }
+  },
+  {
+    "model": "APIbestival.Date",
+    "fields": {
+      "month": "August",
+      "year": 2017
+    }
+  },
+  {
+    "model": "APIbestival.Date",
+    "fields": {
+      "month": "September",
+      "year": 2017
+    }
+  }
+]

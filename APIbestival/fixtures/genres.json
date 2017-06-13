@@ -1,0 +1,26 @@
+[
+  {
+    "model": "APIbestival.Genre",
+    "fields": {
+      "genre_name": "Indie"
+    }
+  },
+  {
+    "model": "APIbestival.Genre",
+    "fields": {
+      "genre_name": "Folk"
+    }
+  },
+  {
+    "model": "APIbestival.Genre",
+    "fields": {
+      "genre_name": "Rap"
+    }
+  },
+  {
+    "model": "APIbestival.Genre",
+    "fields": {
+      "genre_name": "Country"
+    }
+  }
+]

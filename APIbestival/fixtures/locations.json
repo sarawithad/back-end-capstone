@@ -1,0 +1,27 @@
+[
+  {
+    "model": "APIbestival.Location",
+    "fields": {
+      "state_name": "TN"
+    }
+  },
+  {
+    "model": "APIbestival.Location",
+    "fields": {
+      "state_name": "CA"
+    }
+  },
+  {
+    "model": "APIbestival.Location",
+    "fields": {
+      "state_name": "NY"
+    }
+  },
+  {
+    "model": "APIbestival.Location",
+    "fields": {
+      "state_name": "FL"
+    }
+  }
+
+]

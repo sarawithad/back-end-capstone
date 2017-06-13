@@ -1,0 +1,18 @@
+[
+  {
+    "model": "APIbestival.Festival",
+    "fields": {
+      "festival_name": "Bonnaroo",
+      "date": 2,
+      "location": 4
+    }
+  },
+  {
+    "model": "APIbestival.Festival",
+    "fields": {
+      "festival_name": "Coachella",
+      "date": 1,
+      "location": 2
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "model": "APIbestival.Artist",
+    "fields": {
+      "artist_name": "The XX",
+      "genre": 3
+    }
+  },
+  {
+    "model": "APIbestival.Artist",
+    "fields": {
+      "artist_name": "Chance the Rapper",
+      "genre": 4
+    }
+  },
+  {
+    "model": "APIbestival.Artist",
+    "fields": {
+      "artist_name": "DJ Shadow",
+      "genre": 2
+    }
+  }
+]
