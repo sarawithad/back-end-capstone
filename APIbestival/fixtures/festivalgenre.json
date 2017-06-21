@@ -1,0 +1,222 @@
+[
+  {
+    "model": "APIbestival.FestivalGenre",
+    "fields": {
+      "festival": 1,
+      "genre": 1
+    }
+  },
+  {
+    "model": "APIbestival.FestivalGenre",
+    "fields": {
+      "festival": 1,
+      "genre": 2
+    }
+  },
+  {
+    "model": "APIbestival.FestivalGenre",
+    "fields": {
+     
+      "festival": 1,
+      "genre": 3
+    }
+  },
+  {
+    "model": "APIbestival.FestivalGenre",
+    "fields": {
+      "festival": 1,
+      "genre": 4
+    }
+  },
+  {
+    "model": "APIbestival.FestivalGenre",
+    "fields": {
+      "festival": 1,
+      "genre": 5
+    }
+  },
+  {
+    "model": "APIbestival.FestivalGenre",
+    "fields": {
+      "festival": 1,
+      "genre": 6
+    }
+  },
+  {
+    "model": "APIbestival.FestivalGenre",
+    "fields": {
+      "festival": 1,
+      "genre": 7
+    }
+  },
+  {
+    "model": "APIbestival.FestivalGenre",
+    "fields": {
+      "festival": 1,
+      "genre": 8
+    }
+  },
+  {
+    "model": "APIbestival.FestivalGenre",
+    "fields": {
+      "festival": 1,
+      "genre": 9
+    }
+  },  
+  {
+    "model": "APIbestival.FestivalGenre",
+    "fields": {
+      "festival": 1,
+      "genre": 10
+    }
+  },  
+  {
+    "model": "APIbestival.FestivalGenre",
+    "fields": {
+      "festival": 1,
+      "genre": 11
+    }
+  },  
+  {
+    "model": "APIbestival.FestivalGenre",
+    "fields": {
+      "festival": 1,
+      "genre": 12
+    }
+  },  
+  {
+    "model": "APIbestival.FestivalGenre",
+    "fields": {
+      "festival": 1,
+      "genre": 13
+    }
+  },  
+  {
+    "model": "APIbestival.FestivalGenre",
+    "fields": {
+      "festival": 1,
+      "genre": 14
+    }
+  },
+  {
+    "model": "APIbestival.FestivalGenre",
+    "fields": {
+      "festival": 2,
+      "genre": 1
+    }
+  },
+  {
+    "model": "APIbestival.FestivalGenre",
+    "fields": {
+      "festival": 2,
+      "genre": 2
+    }
+  },
+  {
+    "model": "APIbestival.FestivalGenre",
+    "fields": {
+     
+      "festival": 2,
+      "genre": 3
+    }
+  },
+  {
+    "model": "APIbestival.FestivalGenre",
+    "fields": {
+      "festival": 2,
+      "genre": 4
+    }
+  },
+  {
+    "model": "APIbestival.FestivalGenre",
+    "fields": {
+      "festival": 2,
+      "genre": 5
+    }
+  },
+  {
+    "model": "APIbestival.FestivalGenre",
+    "fields": {
+      "festival": 2,
+      "genre": 6
+    }
+  },
+  {
+    "model": "APIbestival.FestivalGenre",
+    "fields": {
+      "festival": 2,
+      "genre": 7
+    }
+  },
+  {
+    "model": "APIbestival.FestivalGenre",
+    "fields": {
+      "festival": 2,
+      "genre": 8
+    }
+  },
+  {
+    "model": "APIbestival.FestivalGenre",
+    "fields": {
+      "festival": 2,
+      "genre": 9
+    }
+  },  
+  {
+    "model": "APIbestival.FestivalGenre",
+    "fields": {
+      "festival": 2,
+      "genre": 10
+    }
+  },  
+  {
+    "model": "APIbestival.FestivalGenre",
+    "fields": {
+      "festival": 2,
+      "genre": 11
+    }
+  },  
+  {
+    "model": "APIbestival.FestivalGenre",
+    "fields": {
+      "festival": 2,
+      "genre": 12
+    }
+  },  
+  {
+    "model": "APIbestival.FestivalGenre",
+    "fields": {
+      "festival": 3,
+      "genre": 13
+    }
+  },  
+  {
+    "model": "APIbestival.FestivalGenre",
+    "fields": {
+      "festival": 4,
+      "genre": 14
+    }
+  },
+    {
+    "model": "APIbestival.FestivalGenre",
+    "fields": {
+      "festival": 3,
+      "genre": 4
+    }
+  },
+  {
+    "model": "APIbestival.FestivalGenre",
+    "fields": {
+      "festival": 6,
+      "genre": 4
+    }
+  },
+  {
+    "model": "APIbestival.FestivalGenre",
+    "fields": {
+      "festival": 14,
+      "genre": 6
+    }
+  }
+
+]
