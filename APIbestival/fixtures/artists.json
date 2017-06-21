@@ -3,21 +3,56 @@
     "model": "APIbestival.Artist",
     "fields": {
       "artist_name": "The XX",
-      "genre": 3
+      "genre": 1
     }
   },
   {
     "model": "APIbestival.Artist",
     "fields": {
       "artist_name": "Chance the Rapper",
+      "genre": 3
+    }
+  },
+  {
+    "model": "APIbestival.Artist",
+    "fields": {
+      "artist_name": "Bon Iver",
+      "genre": 1
+    }
+  },
+  {
+    "model": "APIbestival.Artist",
+    "fields": {
+      "artist_name": "The Weeknd",
+      "genre": 5
+    }
+  },
+  {
+    "model": "APIbestival.Artist",
+    "fields": {
+      "artist_name": "Glass Animals",
+      "genre": 1
+    }
+  },
+  {
+    "model": "APIbestival.Artist",
+    "fields": {
+      "artist_name": "The Head and the Heart",
+      "genre": 2
+    }
+  },
+  {
+    "model": "APIbestival.Artist",
+    "fields": {
+      "artist_name": "Thomas Rhett",
       "genre": 4
     }
   },
   {
     "model": "APIbestival.Artist",
     "fields": {
-      "artist_name": "DJ Shadow",
-      "genre": 2
+      "artist_name": "Zedd",
+      "genre": 6
     }
   }
 ]

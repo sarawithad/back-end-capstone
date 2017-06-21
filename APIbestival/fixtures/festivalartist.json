@@ -1,0 +1,58 @@
+[
+  {
+    "model": "APIbestival.FestivalArtist",
+    "fields": {
+      "festival": 1,
+      "artist": 1
+    }
+  },
+  {
+    "model": "APIbestival.FestivalArtist",
+    "fields": {
+      "festival": 2,
+      "artist": 1
+    }
+  },
+  {
+    "model": "APIbestival.FestivalArtist",
+    "fields": {
+      "festival": 1,
+      "artist": 2
+    }
+  },
+  {
+    "model": "APIbestival.FestivalArtist",
+    "fields": {
+      "festival": 7,
+      "artist": 2
+    }
+  },
+  {
+    "model": "APIbestival.FestivalArtist",
+    "fields": {
+      "festival": 9,
+      "artist": 2
+    }
+  },
+  {
+    "model": "APIbestival.FestivalArtist",
+    "fields": {
+      "festival": 14,
+      "artist": 2
+    }
+  },
+  {
+    "model": "APIbestival.FestivalArtist",
+    "fields": {
+      "festival": 2,
+      "artist": 3
+    }
+  },
+    {
+    "model": "APIbestival.FestivalArtist",
+    "fields": {
+      "festival": 14,
+      "artist": 3
+    }
+  }
+]

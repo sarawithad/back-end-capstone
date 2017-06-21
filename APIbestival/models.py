@@ -7,6 +7,9 @@ class Location(models.Model):
     """
     state_name = models.CharField(max_length=2)
 
+    def __str__(self):
+        return self.state_name
+
 
 class Date(models.Model):
     """
@@ -16,6 +19,9 @@ class Date(models.Model):
     month =  models.CharField(max_length=15)
     year = models.IntegerField()
 
+    def __str__(self):
+        return '{} {}'.format(self.month, self.year)
+
 class Festival(models.Model):
     """
     Purpose: expose specific festival data to client
@@ -24,6 +30,9 @@ class Festival(models.Model):
     festival_name = models.CharField(max_length = 30)
     date = models.ForeignKey(Date)    
     location = models.ForeignKey(Location)
+    artists = models.ManyToManyField("Artist", through="FestivalArtist")
+    genres = models.ManyToManyField("Genre", through="FestivalGenre")
+
 
 
 class Genre(models.Model):
@@ -33,6 +42,8 @@ class Genre(models.Model):
     """
     genre_name = models.CharField(max_length=20)
 
+    def __str__(self):
+        return self.genre_name
 
 class Artist(models.Model):
     """
@@ -42,6 +53,9 @@ class Artist(models.Model):
     artist_name = models.CharField(max_length=20)
     genre = models.ForeignKey(Genre)
 
+    def __str__(self):
+        return self.artist_name
+
 
 class FestivalGenre(models.Model):
     """
@@ -49,7 +63,7 @@ class FestivalGenre(models.Model):
     Author: Dara Thomas
     """
     festival = models.ForeignKey(Festival)
-    Genre = models.ForeignKey(Genre)
+    genre = models.ForeignKey(Genre)
 
 
 class FestivalArtist(models.Model):
@@ -59,5 +73,3 @@ class FestivalArtist(models.Model):
     """
     festival = models.ForeignKey(Festival)
     artist = models.ForeignKey(Artist)   
-
-

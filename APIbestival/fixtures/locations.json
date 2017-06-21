@@ -22,6 +22,54 @@
     "fields": {
       "state_name": "FL"
     }
+  },
+  {
+    "model": "APIbestival.Location",
+    "fields": {
+      "state_name": "KY"
+    }
+  },
+  {
+    "model": "APIbestival.Location",
+    "fields": {
+      "state_name": "NV"
+    }
+  },
+  {
+    "model": "APIbestival.Location",
+    "fields": {
+      "state_name": "AL"
+    }
+  },
+  {
+    "model": "APIbestival.Location",
+    "fields": {
+      "state_name": "GA"
+    }
+  },
+  {
+    "model": "APIbestival.Location",
+    "fields": {
+      "state_name": "WI"
+    }
+  },
+  {
+    "model": "APIbestival.Location",
+    "fields": {
+      "state_name": "CO"
+    }
+  },
+  {
+    "model": "APIbestival.Location",
+    "fields": {
+      "state_name": "IL"
+    }
+  },
+  {
+    "model": "APIbestival.Location",
+    "fields": {
+      "state_name": "TX"
+    }
   }
 
 ]

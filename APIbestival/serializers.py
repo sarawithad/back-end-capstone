@@ -2,12 +2,25 @@ from rest_framework import serializers
 from APIbestival.models import *
 from django.contrib.auth.models import User, Group
 
-class FestivalSerializer(serializers.HyperlinkedModelSerializer):
+class LocationSerializer(serializers.HyperlinkedModelSerializer):
     """
     """
     class Meta:
+        model = Location
+        fields = ('url', 'state_name')
+
+class FestivalSerializer(serializers.HyperlinkedModelSerializer):
+    """
+    """
+    location = serializers.StringRelatedField()
+    artists = serializers.StringRelatedField(many=True)
+    genres = serializers.StringRelatedField(many=True)
+    date = serializers.StringRelatedField()
+
+
+    class Meta:
         model = Festival
-        fields = ('url','festival_name', 'date', 'location')
+        fields = ('url','festival_name', 'date', 'location', 'artists', 'genres')
 
 
 class FestivalGenreSerializer(serializers.HyperlinkedModelSerializer):
@@ -42,12 +55,6 @@ class ArtistSerializer(serializers.HyperlinkedModelSerializer):
         fields = ('url', 'artist_name', 'genre')
 
 
-class LocationSerializer(serializers.HyperlinkedModelSerializer):
-    """
-    """
-    class Meta:
-        model = Location
-        fields = ('url', 'state_name')
 
 
 class DateSerializer(serializers.HyperlinkedModelSerializer):

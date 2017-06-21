@@ -40,5 +40,19 @@
       "month": "September",
       "year": 2017
     }
+  },
+  {
+    "model": "APIbestival.Date",
+    "fields": {
+      "month": "October",
+      "year": 2017
+    }
+  },
+    {
+    "model": "APIbestival.Date",
+    "fields": {
+      "month": "March",
+      "year": 2017
+    }
   }
 ]
