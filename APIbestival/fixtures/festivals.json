@@ -4,7 +4,8 @@
     "fields": {
       "festival_name": "Bonnaroo",
       "date": 3,
-      "location": 1
+      "location": 1,
+      "festival_website": "https://www.bonnaroo.com/"
     }
   },
   {
@@ -12,7 +13,8 @@
     "fields": {
       "festival_name": "Coachella",
       "date": 1,
-      "location": 2
+      "location": 2,
+      "festival_website": "https://www.coachella.com/home/"
     }
   },
   {
@@ -20,7 +22,8 @@
     "fields": {
       "festival_name": "Stagecoach",
       "date": 1,
-      "location": 2
+      "location": 2,
+      "festival_website": "http://www.stagecoachfestival.com/lineup/"
     }
   },
   {
@@ -28,7 +31,8 @@
     "fields": {
       "festival_name": "Pilgrimage",
       "date": 6,
-      "location": 1
+      "location": 1,
+      "festival_website": "http://pilgrimagefestival.com/"
     }
   },
   {
@@ -36,7 +40,8 @@
     "fields": {
       "festival_name": "Outside Lands",
       "date": 5,
-      "location": 2
+      "location": 2,
+      "festival_website": "https://www.sfoutsidelands.com/"
     }
   },
   {
@@ -44,7 +49,8 @@
     "fields": {
       "festival_name": "CMA Fest",
       "date": 3,
-      "location": 1
+      "location": 1,
+      "festival_website": "http://www.cmaworld.com/cma-music-festival/whos-playing-2017/full-schedule/?1_route=/client-embeds/cma-2017-schedule/1/1/__/"
     }
   },
   {
@@ -52,7 +58,8 @@
     "fields": {
       "festival_name": "Lollapallooza",
       "date": 5,
-      "location": 11
+      "location": 11,
+      "festival_website": "https://www.lollapalooza.com/"
     }
   },
   {
@@ -60,7 +67,8 @@
     "fields": {
       "festival_name": "Music Midtown",
       "date": 6,
-      "location": 8
+      "location": 8,
+      "festival_website": "https://www.musicmidtown.com/"
     }
   },
   {
@@ -68,7 +76,8 @@
     "fields": {
       "festival_name": "Austin City Limits",
       "date": 7,
-      "location": 12
+      "location": 12,
+      "festival_website": "https://www.aclfestival.com/"
     }
   },
   {
@@ -76,7 +85,8 @@
     "fields": {
       "festival_name": "Slossfest",
       "date": 4,
-      "location": 7
+      "location": 7,
+      "festival_website": "http://slossfest.com/"
     }
   },
   {
@@ -84,7 +94,8 @@
     "fields": {
       "festival_name": "Forecastle",
       "date": 4,
-      "location": 5
+      "location": 5,
+      "festival_website": "http://forecastlefest.com/"
     }
   },
   {
@@ -92,7 +103,8 @@
     "fields": {
       "festival_name": "Governor's Ball",
       "date": 3,
-      "location": 3
+      "location": 3,
+      "festival_website": "https://www.governorsballmusicfestival.com/lineup/"
     }
   },
   {
@@ -100,7 +112,8 @@
     "fields": {
       "festival_name": "Ultra",
       "date": 8,
-      "location": 4
+      "location": 4,
+      "festival_website": "https://ultramusicfestival.com/"
     }
   },
   {
@@ -108,7 +121,8 @@
     "fields": {
       "festival_name": "Eaux Claires",
       "date": 3,
-      "location": 9
+      "location": 9,
+      "festival_website": "http://eauxclaires.com/"
     }
   },
     {
@@ -116,7 +130,8 @@
     "fields": {
       "festival_name": "The Ride Festival",
       "date": 4,
-      "location": 10
+      "location": 10,
+      "festival_website": "http://ridefestival.com/"
     }
   }
 ]

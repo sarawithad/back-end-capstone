@@ -20,7 +20,7 @@ class FestivalSerializer(serializers.HyperlinkedModelSerializer):
 
     class Meta:
         model = Festival
-        fields = ('url','festival_name', 'date', 'location', 'artists', 'genres')
+        fields = ('url','festival_name', 'date', 'location', 'artists', 'genres', 'festival_website')
 
 
 class FestivalGenreSerializer(serializers.HyperlinkedModelSerializer):
