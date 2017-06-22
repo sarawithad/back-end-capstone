@@ -32,6 +32,7 @@ class Festival(models.Model):
     location = models.ForeignKey(Location)
     artists = models.ManyToManyField("Artist", through="FestivalArtist")
     genres = models.ManyToManyField("Genre", through="FestivalGenre")
+    festival_website = models.URLField(max_length=200)
 
 
 
