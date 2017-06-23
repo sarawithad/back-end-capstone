@@ -133,5 +133,14 @@
       "location": 10,
       "festival_website": "http://ridefestival.com/"
     }
+  },
+    {
+    "model": "APIbestival.Festival",
+    "fields": {
+      "festival_name": "Electric Daisy Carnival",
+      "date": 3,
+      "location": 6,
+      "festival_website": "http://lasvegas.electricdaisycarnival.com/experience/lineup/"
+    }
   }
 ]

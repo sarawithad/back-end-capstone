@@ -50,18 +50,6 @@
   {
     "model": "APIbestival.Genre",
     "fields": {
-      "genre_name": "Jazz"
-    }
-  },
-  {
-    "model": "APIbestival.Genre",
-    "fields": {
-      "genre_name": "Reggae"
-    }
-  },
-  {
-    "model": "APIbestival.Genre",
-    "fields": {
       "genre_name": "R&B"
     }
   },

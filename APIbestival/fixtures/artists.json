@@ -54,5 +54,160 @@
       "artist_name": "Zedd",
       "genre": 6
     }
+  },
+  {
+    "model": "APIbestival.Artist",
+    "fields": {
+      "artist_name": "Dan + Shay",
+      "genre": 4
+    }
+  },
+  {
+    "model": "APIbestival.Artist",
+    "fields": {
+      "artist_name": "Nikki Lane",
+      "genre": 4 
+    }
+  },
+  {
+    "model": "APIbestival.Artist",
+    "fields": {
+      "artist_name": "Willie Nelson",
+      "genre": 4
+    }
+  },
+  {
+    "model": "APIbestival.Artist",
+    "fields": {
+      "artist_name": "Maren Morris",
+      "genre": 4
+    }
+  },
+  {
+    "model": "APIbestival.Artist",
+    "fields": {
+      "artist_name": "Justin Timberlake",
+      "genre": 5
+    }
+  },
+  {
+    "model": "APIbestival.Artist",
+    "fields": {
+      "artist_name": "Eddie Vedder",
+      "genre": 8
+    }
+  },
+  {
+    "model": "APIbestival.Artist",
+    "fields": {
+      "artist_name": "Ryan Adams",
+      "genre": 8
+    }
+  },
+  {
+    "model": "APIbestival.Artist",
+    "fields": {
+      "artist_name": "The Avett Brothers",
+      "genre": 2
+    }
+  },
+  {
+    "model": "APIbestival.Artist",
+    "fields": {
+      "artist_name": "Metallica",
+      "genre": 8
+    }
+  },
+  {
+    "model": "APIbestival.Artist",
+    "fields": {
+      "artist_name": "Lorde",
+      "genre": 5
+    }
+  },
+  {
+    "model": "APIbestival.Artist",
+    "fields": {
+      "artist_name": "Alt-J",
+      "genre": 1
+    }
+  },
+  {
+    "model": "APIbestival.Artist",
+    "fields": {
+      "artist_name": "Alesso",
+      "genre": 6
+    }
+  },
+  {
+    "model": "APIbestival.Artist",
+    "fields": {
+      "artist_name": "Phantogram",
+      "genre": 1
+    }
+  },
+  {
+    "model": "APIbestival.Artist",
+    "fields": {
+      "artist_name": "Future",
+      "genre": 3
+    }
+  },
+  {
+    "model": "APIbestival.Artist",
+    "fields": {
+      "artist_name": "Mumford & Sons",
+      "genre": 2
+    }
+  },
+  {
+    "model": "APIbestival.Artist",
+    "fields": {
+      "artist_name": "Red Hot Chili Peppers",
+      "genre": 8
+    }
+  },
+  {
+    "model": "APIbestival.Artist",
+    "fields": {
+      "artist_name": "Spoon",
+      "genre": 7
+    }
+  },
+  {
+    "model": "APIbestival.Artist",
+    "fields": {
+      "artist_name": "LCD Soundsystem",
+      "genre": 7
+    }
+  },
+  {
+    "model": "APIbestival.Artist",
+    "fields": {
+      "artist_name": "Cage the Elephant",
+      "genre": 8
+    }
+  },
+  {
+    "model": "APIbestival.Artist",
+    "fields": {
+      "artist_name": "A$AP Ferg",
+      "genre": 6
+    }
+  },
+  {
+    "model": "APIbestival.Artist",
+    "fields": {
+      "artist_name": "Afrojack",
+      "genre": 8
+    }
+  },
+  {
+    "model": "APIbestival.Artist",
+    "fields": {
+      "artist_name": "Beck",
+      "genre": 7
+    }
   }
+
 ]
