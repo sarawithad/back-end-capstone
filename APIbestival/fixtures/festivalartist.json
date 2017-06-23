@@ -54,5 +54,321 @@
       "festival": 14,
       "artist": 3
     }
+  },
+    {
+    "model": "APIbestival.FestivalArtist",
+    "fields": {
+      "festival": 3,
+      "artist": 9
+    }
+  },
+  {
+    "model": "APIbestival.FestivalArtist",
+    "fields": {
+      "festival": 3,
+      "artist": 10
+    }
+  },
+    {
+    "model": "APIbestival.FestivalArtist",
+    "fields": {
+      "festival": 3,
+      "artist": 11
+    }
+  },
+    {
+    "model": "APIbestival.FestivalArtist",
+    "fields": {
+      "festival": 3,
+      "artist": 12
+    }
+  },
+  {
+    "model": "APIbestival.FestivalArtist",
+    "fields": {
+      "festival": 4,
+      "artist": 13
+    }
+  },
+  {
+    "model": "APIbestival.FestivalArtist",
+    "fields": {
+      "festival": 4,
+      "artist": 14
+    }
+  },
+  {
+    "model": "APIbestival.FestivalArtist",
+    "fields": {
+      "festival": 4,
+      "artist": 15
+    }
+  },
+  {
+    "model": "APIbestival.FestivalArtist",
+    "fields": {
+      "festival": 4,
+      "artist": 16
+    }
+  },
+  {
+    "model": "APIbestival.FestivalArtist",
+    "fields": {
+      "festival": 5,
+      "artist": 17
+    }
+  },
+  {
+    "model": "APIbestival.FestivalArtist",
+    "fields": {
+      "festival": 5,
+      "artist": 18
+    }
+  },
+  {
+    "model": "APIbestival.FestivalArtist",
+    "fields": {
+      "festival": 5,
+      "artist": 19
+    }
+  },
+  {
+    "model": "APIbestival.FestivalArtist",
+    "fields": {
+      "festival": 16,
+      "artist": 20
+    }
+  },
+  {
+    "model": "APIbestival.FestivalArtist",
+    "fields": {
+      "festival": 6,
+      "artist": 12
+    }
+  },
+  {
+    "model": "APIbestival.FestivalArtist",
+    "fields": {
+      "festival": 6,
+      "artist": 7
+    }
+  },
+  {
+    "model": "APIbestival.FestivalArtist",
+    "fields": {
+      "festival": 7,
+      "artist": 18
+    }
+  },
+  {
+    "model": "APIbestival.FestivalArtist",
+    "fields": {
+      "festival": 7,
+      "artist": 15
+    }
+  },
+  {
+    "model": "APIbestival.FestivalArtist",
+    "fields": {
+      "festival": 7,
+      "artist": 21
+    }
+  },
+  {
+    "model": "APIbestival.FestivalArtist",
+    "fields": {
+      "festival": 7,
+      "artist": 5
+    }
+  },
+  {
+    "model": "APIbestival.FestivalArtist",
+    "fields": {
+      "festival": 7,
+      "artist": 6
+    }
+  },
+  {
+    "model": "APIbestival.FestivalArtist",
+    "fields": {
+      "festival": 7,
+      "artist": 19
+    }
+  },
+  {
+    "model": "APIbestival.FestivalArtist",
+    "fields": {
+      "festival": 7,
+      "artist": 18
+    }
+  },
+  {
+    "model": "APIbestival.FestivalArtist",
+    "fields": {
+      "festival": 8,
+      "artist": 22
+    }
+  },
+  {
+    "model": "APIbestival.FestivalArtist",
+    "fields": {
+      "festival": 8,
+      "artist": 23
+    }
+  },
+  {
+    "model": "APIbestival.FestivalArtist",
+    "fields": {
+      "festival": 9,
+      "artist": 24
+    }
+  },
+  {
+    "model": "APIbestival.FestivalArtist",
+    "fields": {
+      "festival": 9,
+      "artist": 15
+    }
+  },
+  {
+    "model": "APIbestival.FestivalArtist",
+    "fields": {
+      "festival": 9,
+      "artist": 6
+    }
+  },
+  {
+    "model": "APIbestival.FestivalArtist",
+    "fields": {
+      "festival": 9,
+      "artist": 5
+    }
+  },
+  {
+    "model": "APIbestival.FestivalArtist",
+    "fields": {
+      "festival": 10,
+      "artist": 21
+    }
+  },
+  {
+    "model": "APIbestival.FestivalArtist",
+    "fields": {
+      "festival": 8,
+      "artist": 23
+    }
+  },
+  {
+    "model": "APIbestival.FestivalArtist",
+    "fields": {
+      "festival": 8,
+      "artist": 25
+    }
+  },
+  {
+    "model": "APIbestival.FestivalArtist",
+    "fields": {
+      "festival": 11,
+      "artist": 25
+    }
+  },
+  {
+    "model": "APIbestival.FestivalArtist",
+    "fields": {
+      "festival": 9,
+      "artist": 25
+    }
+  },
+  {
+    "model": "APIbestival.FestivalArtist",
+    "fields": {
+      "festival": 11,
+      "artist": 26
+    }
+  },
+  {
+    "model": "APIbestival.FestivalArtist",
+    "fields": {
+      "festival": 11,
+      "artist": 21
+    }
+  },
+  {
+    "model": "APIbestival.FestivalArtist",
+    "fields": {
+      "festival": 11,
+      "artist": 27
+    }
+  },
+  {
+    "model": "APIbestival.FestivalArtist",
+    "fields": {
+      "festival": 12,
+      "artist": 2
+    }
+  },
+  {
+    "model": "APIbestival.FestivalArtist",
+    "fields": {
+      "festival": 12,
+      "artist": 18
+    }
+  },
+  {
+    "model": "APIbestival.FestivalArtist",
+    "fields": {
+      "festival": 12,
+      "artist": 6
+    }
+  },
+  {
+    "model": "APIbestival.FestivalArtist",
+    "fields": {
+      "festival": 12,
+      "artist": 27
+    }
+  },
+  {
+    "model": "APIbestival.FestivalArtist",
+    "fields": {
+      "festival": 12,
+      "artist": 21
+    }
+  },
+  {
+    "model": "APIbestival.FestivalArtist",
+    "fields": {
+      "festival": 13,
+      "artist": 20
+    }
+  },
+  {
+    "model": "APIbestival.FestivalArtist",
+    "fields": {
+      "festival": 13,
+      "artist": 28
+    }
+  },
+  {
+    "model": "APIbestival.FestivalArtist",
+    "fields": {
+      "festival": 13,
+      "artist": 29
+    }
+  },
+  {
+    "model": "APIbestival.FestivalArtist",
+    "fields": {
+      "festival": 16,
+      "artist": 29
+    }
+  },
+  {
+    "model": "APIbestival.FestivalArtist",
+    "fields": {
+      "festival": 15,
+      "artist": 30
+    }
   }
+
 ]
